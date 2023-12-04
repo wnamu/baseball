@@ -8,7 +8,10 @@
 - [2023-04-08, 삼성 라이온즈 vs. LG트윈스, 잠실야구장](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=223089879129)
 - [2023-04-09, 삼성 라이온즈 vs. LG트윈스, 잠실야구장](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=223101007695)
 - [2023-04-18, NC 다이노스 vs. LG트윈스, 잠실야구장](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=223131056446)
-
+- [2023-04-19, NC 다이노스 vs. LG트윈스, 잠실야구장](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=223160077490)
+- [2023-04-27, SSG 랜더스 vs. LG트윈스, 잠실야구장](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=223213301446)
+- [2023-04-28, 기아 타이거즈 vs. LG트윈스, 잠실야구장](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=223238624775)
+- [2023-04-29, 기아 타이거즈 vs. LG트윈스, 잠실야구장](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=223242656293)
 
 ## NPB (일본프로야구)
 - [2004-08, 히로시마 도요 카프 vs. 한신 타이거스, 오사카돔(교세라돔)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222418586891)
