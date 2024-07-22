@@ -1,6 +1,7 @@
 # Baseball games
 
 ## KBO (한국프로야구)
+- [2002-05-18, KIA 타이거즈 vs. LG트윈스, 잠실야구장](https://m.blog.naver.com/w_namu/223432895551)
 - [2009-09-25, 롯데 자이언츠 vs. LG트윈스, 잠실야구장](https://m.blog.naver.com/w_namu/222485773617)
 - [2011-03-27, 두산 베어스 vs. LG트윈스, 잠실야구장](https://m.blog.naver.com/w_namu/223048315040)
 - [2015-09-06, 롯데 자이언츠 vs. LG트윈스, 잠실야구장](https://m.blog.naver.com/w_namu/222485786812)
@@ -10,8 +11,15 @@
 - [2023-04-18, NC 다이노스 vs. LG트윈스, 잠실야구장](https://m.blog.naver.com/w_namu/223131056446)
 - [2023-04-19, NC 다이노스 vs. LG트윈스, 잠실야구장](https://m.blog.naver.com/w_namu/223160077490)
 - [2023-04-27, SSG 랜더스 vs. LG트윈스, 잠실야구장](https://m.blog.naver.com/w_namu/223213301446)
-- [2023-04-28, 기아 타이거즈 vs. LG트윈스, 잠실야구장](https://m.blog.naver.com/w_namu/223238624775)
-- [2023-04-29, 기아 타이거즈 vs. LG트윈스, 잠실야구장](https://m.blog.naver.com/w_namu/223242656293)
+- [2023-04-28, KIA 타이거즈 vs. LG트윈스, 잠실야구장](https://m.blog.naver.com/w_namu/223238624775)
+- [2023-04-29, KIA 타이거즈 vs. LG트윈스, 잠실야구장](https://m.blog.naver.com/w_namu/223242656293)
+- [2023-06-02, NC 다이노스 vs. LG트윈스, 잠실야구장](https://m.blog.naver.com/w_namu/223387725407)
+- [2023-06-13, 삼성 라이온즈 vs. LG트윈스, 잠실야구장](https://m.blog.naver.com/w_namu/223394109236)
+- [2023-06-15, 삼성 라이온즈 vs. LG트윈스, 잠실야구장](https://m.blog.naver.com/w_namu/223401124565)
+- [2023-06-16, 두산 베어스 vs. LG트윈스, 잠실야구장](https://m.blog.naver.com/w_namu/223409829387)
+- [2023-06-25, 롯데 자이언츠 vs. LG트윈스, 잠실야구장](https://m.blog.naver.com/w_namu/223465621768)
+- [2023-08-31, 두산 베어스 vs. LG트윈스, 잠실야구장](https://m.blog.naver.com/w_namu/223472657969)
+- [2023-09-03, 한화 이글스 vs. LG트윈스, 잠실야구장](https://m.blog.naver.com/w_namu/223496008069)
 
 ## NPB (일본프로야구)
 - [2004-08, 히로시마 도요 카프 vs. 한신 타이거스, 오사카돔(교세라돔)](https://m.blog.naver.com/w_namu/222418586891)
