@@ -21,6 +21,12 @@
 - [2023-08-31, 두산 베어스 vs. LG트윈스, 잠실야구장](https://m.blog.naver.com/w_namu/223472657969)
 - [2023-09-03, 한화 이글스 vs. LG트윈스, 잠실야구장](https://m.blog.naver.com/w_namu/223496008069)
 
+## 한국 야구장 시야
+- [잠실야구장 네이비석 313블럭[(https://m.blog.naver.com/w_namu/222485773617)
+- [잠실야구장 네이비석 318블럭[(https://m.blog.naver.com/w_namu/223472657969)
+- [고척돔 테이블석 T05](https://m.blog.naver.com/w_namu/223427428686)
+
+
 ## NPB (일본프로야구)
 - [2004-08, 히로시마 도요 카프 vs. 한신 타이거스, 오사카돔(교세라돔)](https://m.blog.naver.com/w_namu/222418586891)
 - [2009-08, 요코하마 베이스타즈 vs. 야쿠르트 스왈로스, 메이지진구구장](https://m.blog.naver.com/w_namu/223182246108)
