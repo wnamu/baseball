@@ -22,9 +22,11 @@
 - [2023-09-03, 한화 이글스 vs. LG트윈스, 잠실야구장](https://m.blog.naver.com/w_namu/223496008069)
 
 ## 한국 야구장 시야
-- [잠실야구장 네이비석 313블럭[(https://m.blog.naver.com/w_namu/222485773617)
-- [잠실야구장 네이비석 318블럭[(https://m.blog.naver.com/w_namu/223472657969)
-- [고척돔 테이블석 T05](https://m.blog.naver.com/w_namu/223427428686)
+- [잠실야구장 네이비석 313블럭 20열](https://m.blog.naver.com/w_namu/222485773617)
+- [잠실야구장 네이비석 313블럭 14열](https://m.blog.naver.com/w_namu/223380494643)
+- [잠실야구장 네이비석 318블럭](https://m.blog.naver.com/w_namu/223472657969)
+- [고척스카이돔 1루 4층 지정석 404구역](https://m.blog.naver.com/w_namu/223243266728)
+- [고척스카이돔 테이블석 T05](https://m.blog.naver.com/w_namu/223427428686)
 
 
 ## NPB (일본프로야구)
