@@ -2,6 +2,7 @@
 
 ## KBO (한국프로야구)
 - [2002-05-18, KIA 타이거즈 vs. LG트윈스, 잠실야구장](https://m.blog.naver.com/w_namu/223432895551)
+- [2008-03-29, LG트윈스 vs. SK 와이번스, 인천문학야구장](https://m.blog.naver.com/w_namu/223283077041)
 - [2009-09-25, 롯데 자이언츠 vs. LG트윈스, 잠실야구장](https://m.blog.naver.com/w_namu/222485773617)
 - [2011-03-27, 두산 베어스 vs. LG트윈스, 잠실야구장](https://m.blog.naver.com/w_namu/223048315040)
 - [2015-09-06, 롯데 자이언츠 vs. LG트윈스, 잠실야구장](https://m.blog.naver.com/w_namu/222485786812)
@@ -20,6 +21,8 @@
 - [2023-06-25, 롯데 자이언츠 vs. LG트윈스, 잠실야구장](https://m.blog.naver.com/w_namu/223465621768)
 - [2023-08-31, 두산 베어스 vs. LG트윈스, 잠실야구장](https://m.blog.naver.com/w_namu/223472657969)
 - [2023-09-03, 한화 이글스 vs. LG트윈스, 잠실야구장](https://m.blog.naver.com/w_namu/223496008069)
+- [2023-10-06, KIA 타이거즈 vs. LG트윈스, 잠실야구장](https://m.blog.naver.com/w_namu/223520163789)
+
 
 ## 한국 야구장 시야
 - [잠실야구장 네이비석 313블럭 20열](https://m.blog.naver.com/w_namu/222485773617)
